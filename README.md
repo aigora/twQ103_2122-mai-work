@@ -4,7 +4,9 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Iria Estepa Villaverde @iriax
+Alejandro Gómez Pérez @alejandrogomez27
+Manuel Alejandro Peña Zambrano @
 
 ## Objetivos del trabajo
 
